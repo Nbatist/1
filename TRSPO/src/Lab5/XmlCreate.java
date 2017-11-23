@@ -59,7 +59,7 @@ public class XmlCreate {
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
             Transformer transformer = transformerFactory.newTransformer();
             DOMSource source = new DOMSource(doc);
-            StreamResult result = new StreamResult(new File("resources/ars.xml"));
+            StreamResult result = new StreamResult(new File("resources/cars.xml"));
             transformer.transform(source, result);
 
             // Output to console for testing
