@@ -1,7 +1,7 @@
 package Lab2;
 
 /**
- * Created by Olya_Sparkle on 10/23/17.
+ * Created by Nick Batist on 10/23/17.
  */
 public enum FuelType {
     EURO("95"),
