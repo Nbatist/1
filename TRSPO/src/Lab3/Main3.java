@@ -1,7 +1,7 @@
 package Lab3;
 
 /**
- * Created by Olya_Sparkle on 11/23/17.
+ * Created by Nick Batist on 11/23/17.
  */
     import java.util.Scanner;
 
